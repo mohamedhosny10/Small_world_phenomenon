@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net6.0\SmallWorldPhenomenon.exe
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net6.0\SmallWorldPhenomenon.deps.json
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net6.0\SmallWorldPhenomenon.runtimeconfig.json
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net6.0\SmallWorldPhenomenon.dll
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net6.0\ref\SmallWorldPhenomenon.dll
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net6.0\SmallWorldPhenomenon.pdb
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\SmallWorldPhenomenon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\SmallWorldPhenomenon.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\SmallWorldPhenomenon.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\SmallWorldPhenomenon.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\SmallWorldPhenomenon.dll
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\ref\SmallWorldPhenomenon.dll
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\SmallWorldPhenomenon.pdb
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\SmallWorldPhenomenon.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net6.0\SmallWorldPhenomenon.csproj.AssemblyReference.cache

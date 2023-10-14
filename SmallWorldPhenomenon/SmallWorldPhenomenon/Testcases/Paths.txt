@@ -1,0 +1,6 @@
+
+
+C:\Users\lenovo\source\repos\Small_World_Phenomenon\Small_World_Phenomenon\Testcases\Sample\movies1.txt -->**Movie and its Actors**
+C:\Users\lenovo\source\repos\Small_World_Phenomenon\Small_World_Phenomenon\Testcases\Sample\queries1.txt -->**Pairs of Actors**
+C:\Users\lenovo\source\repos\Small_World_Phenomenon\Small_World_Phenomenon\Testcases\Sample\queries1 - Solution.txt -->**Solution of comparing two Actors**
+---------------------
